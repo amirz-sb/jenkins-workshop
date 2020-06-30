@@ -10,4 +10,5 @@ object CubeCalculator extends App {
   def double(x: Int) = {
     x * 2
   }
+  
 }
